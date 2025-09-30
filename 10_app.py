@@ -7,8 +7,8 @@
 # Ejemplo
 
 # Definir una variable cantidad
-# cantidad = 8
-cantidad = 3
+cantidad = 8
+# cantidad = 3
 
 
 # Hacer comparación con if
