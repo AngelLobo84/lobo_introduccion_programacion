@@ -5,7 +5,7 @@ dolar = input("ingresa tasa de cambio actual:")
 
 
 # Operación de cálculo de soles a dolares:
-cambio_dolar = int(soles) / float(dolar)
+cambio_dolar = float(soles) / float(dolar)
 print ()
 print (f"monto ingresado en soles es: {soles}")
 print (f"tipo de cambio ingresado es: {dolar}")
