@@ -22,5 +22,5 @@ print(f"ventas del mes: {ventas_mes}")
 print(f"+ comision (8%): S/ {comision_base}")
 print(f"+ bono: S/ {bono}")
 print(f"- impuesto (8%): S/ {impuesto:.2f}")
-print(f"sueldo final neto: {sueldo_final}")
+print(f"sueldo final neto: {sueldo_final:.2f}")
 
